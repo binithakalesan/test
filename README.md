@@ -1,2 +1,2 @@
 # test
-Testing how to establish project on github
+Testing how to establish project on github. Some comment
