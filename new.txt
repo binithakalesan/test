@@ -12,3 +12,4 @@ then checkout master
 merge my-branch
 then push to master
 end of story
+vol 2
