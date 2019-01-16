@@ -2,3 +2,13 @@ this is a new file
 created this thru CLI
 added more stuffand saved
 added again
+not giving up
+first  checkout
+then change
+then snapshot using add
+then commit
+then push
+then checkout master
+merge my-branch
+then push to master
+
